@@ -1,4 +1,4 @@
-#fork from https://pdfium.googlesource.com/pdfium/
+# fork from https://pdfium.googlesource.com/pdfium/
 # PDFium
 
 ## Prerequisites
